@@ -22,6 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+**Dark is necessary** 
+_Italic will be relevant for taxonomic descriptions_
 
 [Link](url) and ![Image](src)
 ```
